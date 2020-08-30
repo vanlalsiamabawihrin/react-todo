@@ -82,3 +82,4 @@ const firebaseConfig = {
   appId: "1:94343150273:web:460ce46c6772314c277240",
   measurementId: "G-76KVN74DDH"
 };
+### Firebase Init to start up a deploy option
